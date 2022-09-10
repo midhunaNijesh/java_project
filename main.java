@@ -16,6 +16,7 @@ class Main {
     // division operator
     System.out.println("a / b = " + (a / b));
 
-
+ // modulo operator
+    System.out.println("a % b = " + (a % b));
   }
 }
